@@ -5,7 +5,7 @@ license: Private
 metadata:
   hermes:
     tags: [research, scientific-method, paper-writing, experiments]
-    related_skills: [humanizer, ai-research-custom, deep-research-orchestration]
+    related_skills: [humanizer, ai-research-custom, deep-research-orchestration-custom]
 ---
 
 # How to do good research
@@ -20,7 +20,7 @@ This is a deliberately small reference-led skill. Its first job is to make the m
 
 - **`humanizer` whenever this skill activates.** Read it before drafting or editing any user-facing proposal, paper, abstract, introduction, review, or research memo. Apply its anti-AI pass to the final prose while preserving technical precision and Minh's own voice.
 - **`ai-research-custom`** when the work belongs in Minh's research system. That skill owns artifact routing, the canonical project/experiment record shape, kill criteria, and ledgers.
-- **`deep-research-orchestration`** when the task needs a literature sweep or broad source synthesis. This skill governs research quality; deep-research-orchestration governs fanout and retrieval.
+- **`deep-research-orchestration-custom`** when the task needs a literature sweep or broad source synthesis. This skill governs research quality; deep-research-orchestration-custom governs fanout and retrieval.
 
 ## Priority references
 

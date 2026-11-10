@@ -1,7 +1,7 @@
 ---
-name: how-to-do-good-research-custom
+name: how-to-do-good-research
 description: "Use when planning, doing, or writing scientific research."
-license: Private
+license: MIT
 metadata:
   hermes:
     tags: [research, scientific-method, paper-writing, experiments]
@@ -14,12 +14,12 @@ metadata:
 
 Load this for substantive scientific or ML research: choosing or reframing a problem, designing experiments, writing or restructuring a proposal/paper, reviewing whether evidence supports a claim, or deciding what to run next. Skip it for a single factual lookup or mechanical file edit.
 
-This is a deliberately small reference-led skill. Its first job is to make the model consult unusually high-signal references before it plans experiments or writes a paper. Add more sources and house principles as Minh develops them.
+This is a deliberately small reference-led skill. Its first job is to make the model consult unusually high-signal references before it plans experiments or writes a paper. Add more sources and house principles as the user develops them.
 
 ## Load this alongside
 
-- **`humanizer` whenever this skill activates.** Read it before drafting or editing any user-facing proposal, paper, abstract, introduction, review, or research memo. Apply its anti-AI pass to the final prose while preserving technical precision and Minh's own voice.
-- **`ai-research-custom`** when the work belongs in Minh's research system. That skill owns artifact routing, the canonical project/experiment record shape, kill criteria, and ledgers.
+- **`humanizer` whenever this skill activates.** Read it before drafting or editing any user-facing proposal, paper, abstract, introduction, review, or research memo. Apply its anti-AI pass to the final prose while preserving technical precision and the user's own voice.
+- **`ai-research-custom`** when the work belongs in the user's research system. That skill owns artifact routing, the canonical project/experiment record shape, kill criteria, and ledgers.
 - **`deep-research-orchestration-custom`** when the task needs a literature sweep or broad source synthesis. This skill governs research quality; deep-research-orchestration-custom governs fanout and retrieval.
 
 ## Priority references

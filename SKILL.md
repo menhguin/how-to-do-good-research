@@ -24,7 +24,7 @@ This is a deliberately small reference-led skill. Its first job is to make the m
 
 ## Priority references
 
-Read the relevant parts of Hamming, Carlini, and Nanda before making substantive research-design or paper-structure decisions. Also consult Schwartz/BootLoops when selecting or executing agent-assisted quantitative work. If the task is small, extract only the principle that changes the decision; do not ritualistically summarize every essay.
+Read the relevant parts of Hamming, Carlini, and Nanda before making substantive research-design or paper-structure decisions. Also consult Schwartz/BootLoops when selecting or executing agent-assisted quantitative work. Read Kei first when the research is being done in a startup or another applied setting, because the other four assume an academic or big-lab one. If the task is small, extract only the principle that changes the decision; do not ritualistically summarize every essay.
 
 1. **Richard Hamming, "You and Your Research"**  
    https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
@@ -54,9 +54,15 @@ Read the relevant parts of Hamming, Carlini, and Nanda before making substantive
 
    Read the relevant upstream protocol when needed, especially `acceptance-gate`, `planted-truth`, `independence-bookkeeping`, `timing-discipline`, `reading-contract`, or `tool-stewardship`; consult `prove-protocol` for proof work. These are model-independent references, not automatically installed skills or universal guarantees. Schwartz owns and maintains BootLoops with Anthropic funding; the reported scientific achievements are author-reported and require project-level validation. Reassess model-specific capability limits as models change.
 
+5. **Kei, "Doing a Research Startup" (September 5, 2024)**  
+   https://web.archive.org/web/20240920140442/https://keiyuva.ai/posts/type.startup/  
+   Archived copy. The original, keiyuva.ai/posts/type.startup, went offline when the domain lapsed in 2026.
+
+   Use as a primer when the research is being done in a startup or another applied setting. Experimental research there runs under constraints that resemble those of academia or a big lab and differ from them in ways that change decisions. Most research advice, including the four references above, assumes a different cadence, setting, and set of incentives, so establish what the work is for and where it is being done before applying any of it. Kei writes as the founder of a research startup. Investors pay for speed, but more money does not reliably make research faster: "You might try 50 things and fail on all, or nail it in 1-2 tries." Progress has no clean metrics, so someone has to act as a strong PI who sets direction and decides what to wind down, because having everyone try everything is how the company goes under. Spending is tied to independence, which favors constrained bets, small successful experiments that build on each other, and solid bite-sized product releases between returns to research. Tight resources can also force a cheaper and better method than a larger budget would have bought. When reporting a result, say what was tried and why it failed; the essay treats "it didn't work" with no account of why as a warning sign. Treat it as one founder's account of one company.
+
 ## Working sequence
 
-1. **Choose the problem.** Write why it matters, why there is a reasonable attack now, and what only this team is positioned to do. For agent-assisted work, name the specific AI advantage and separately establish scientific value.
+1. **Choose the problem.** Write why it matters, why there is a reasonable attack now, and what only this team is positioned to do. For agent-assisted work, name the specific AI advantage and separately establish scientific value. State the setting and what the work is for (a paper, a product, a customer, a raise), since that decides which of the advice above applies.
 2. **Compress before expanding.** Write the one-sentence idea, the best-case conclusion, and no more than three claims.
 3. **Map claims to evidence.** For each claim, state the decisive experiment, strongest alternative explanation, strongest baseline, and result that would kill or narrow it.
 4. **Attack the likely failure first.** Build the cheapest test of the most load-bearing uncertainty before polishing the rest.

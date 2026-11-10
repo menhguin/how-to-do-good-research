@@ -22,10 +22,10 @@ This repo went public on 10 November 2026. The skill is older. Its commit histor
 
 | Date | Change |
 |---|---|
-| 6 Sep 2026 | First version, written during work on a research proposal, with three references: Hamming, Carlini and Nanda. Those three entries have not changed since. |
+| 6 Sep 2026 | First version, written during work on a research proposal, with three references: Hamming, Carlini and Nanda. Those three entries read the same today, apart from one sentence on when to read them, which moved into each entry from the section's intro on 10 Nov 2026. |
 | 2 Oct 2026 | Schwartz's "Claude-shaped science" and BootLoops added as a fourth reference. |
 | 21 Oct 2026 | A companion skill was renamed. |
-| 10 Nov 2026 | Published: MIT license, `-custom` dropped from the skill's name, "the user" in place of the author's name, and this README. Kei's "Doing a Research Startup" added as a fifth reference the same day. |
+| 10 Nov 2026 | Published: MIT license, `-custom` dropped from the skill's name, "the user" in place of the author's name, and this README. Kei's "Doing a Research Startup" added as a fifth reference the same day, and each entry now says when to read it. |
 
 The first version was written at about 01:04 Korea time on 6 September, which is 16:04 UTC on the 5th.
 
